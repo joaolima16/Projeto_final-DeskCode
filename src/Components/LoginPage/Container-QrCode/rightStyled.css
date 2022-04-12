@@ -1,0 +1,27 @@
+.right{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.right img{
+    margin: 0 auto;
+}
+.right h2{
+    padding: 20px 0;
+}
+.right p{
+    text-align: center;
+    width:240px;
+    color:#8c8c8c8c
+}
+.right p strong{
+    color:#ccc;
+}
+@media screen and (max-width: 830px){
+    .right{
+        display:none;
+    }
+}
