@@ -84,5 +84,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Screenshots
 ## Resultado Do Site:
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](imagem_2022-04-11_214445928.png)
 
