@@ -61,4 +61,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Screenshots
 ## Resultado Do Site:
 ![App Screenshot](imagem_2022-04-11_214445928.png)
-
+## Link Do Site Original: https://discord.com
